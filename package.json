@@ -1,0 +1,29 @@
+{
+  "name": "oct24",
+  "version": "1.0.0",
+  "description": "Sample express server created by gk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gauravkeshre/oct24server.git"
+  },
+  "keywords": [
+    "express",
+    "sample",
+    "gk",
+    "teams",
+    "azure"
+  ],
+  "author": "gauravkeshre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravkeshre/oct24server/issues"
+  },
+  "homepage": "https://github.com/gauravkeshre/oct24server#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
